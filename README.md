@@ -5,6 +5,7 @@ Good Vim plugins collection
 
 
 How to create a backup repository like this:
+
 1. After fresh installation:
 $ mkdir ~/.vim
 $ cd ~/.vim && git init
