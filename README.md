@@ -37,12 +37,10 @@ $ git remote add origin git@github.com:congyue/vim.git
 $ git push origin master
 
 9. Recover vim tools to other machine
+`
 $ git clone git://github.com/congyue/vim ~/.vim
-
 $ cd ~/.vim 
-
 $ ln -sf `pwd`/.vimrc ~/.vimrc
-
 $ git submodule init  
-
 $ git submodule update 
+`
