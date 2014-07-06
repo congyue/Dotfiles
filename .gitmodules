@@ -7,3 +7,6 @@
 [submodule "bundle/csapprox"]
 	path = bundle/csapprox
 	url = git://github.com/godlygeek/csapprox.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = git://github.com/yarko/vim-taglist
