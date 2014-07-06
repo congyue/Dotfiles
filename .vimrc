@@ -3,6 +3,9 @@ colo desert
 
 set guifont=inconsolata:h15
 
+set autoindent 
+set tabstop=4
+
 syntax enable
 syntax on
 
