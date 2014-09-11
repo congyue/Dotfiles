@@ -9,6 +9,7 @@ set tabstop=4
 syntax enable
 syntax on
 
+set hlsearch
 set number
 
 runtime bundle/vim-pathogen/autoload/pathogen.vim
