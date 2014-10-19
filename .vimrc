@@ -5,6 +5,7 @@ set guifont=inconsolata:h15
 
 set autoindent 
 set tabstop=4
+set ruler
 
 syntax enable
 syntax on
