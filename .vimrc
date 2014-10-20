@@ -11,6 +11,7 @@ set shiftwidth=4
 syntax enable
 syntax on
 
+set ruler
 set hlsearch
 set number
 
