@@ -5,7 +5,10 @@ set guifont=inconsolata:h15
 
 set autoindent 
 set cindent
+
+set expandtab
 set tabstop=4
+
 set shiftwidth=4
 
 syntax enable
