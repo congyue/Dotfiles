@@ -5,6 +5,7 @@ set guifont=inconsolata:h15
 
 set autoindent 
 set cindent
+set tags=./tags;
 
 set tabstop=2
 set softtabstop=2
