@@ -22,7 +22,3 @@ set hlsearch
 set number
 
 autocmd FileType make setlocal noexpandtab
-
-runtime bundle/vim-pathogen/autoload/pathogen.vim
-call pathogen#infect()
-Helptags
